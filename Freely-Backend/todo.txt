@@ -1,0 +1,27 @@
+filters 
+feed
+new models (Archive,In_Progress,Feed gigs)
+
+In progress goes to Archive after done
+Feed jobs posted by freelancers stay there all the time
+
+Feed gigs by clients leave the gig table after getting accepted
+
+In_progress gigs are instances of a feed gig posted by a freelancer, and the job is always there
+
+auth.
+login
+Json web tokens
+NodeMailer
+getSession(verify_token and return it decoded)
+
+Middleware(protected routes using get session basically)
+
+appolo docs for authorization and Middleware 
+
+ngrok to post the endpoint 
+
+caching gigs...etc
+
+remove auth from some paths 
+

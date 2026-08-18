@@ -1,0 +1,389 @@
+[
+  {
+    "title": "Web Development for E-commerce Site",
+    "description": "Build a responsive e-commerce site using React and Node.js.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Project",
+    "deadline": "2024-07-15",
+    "tags": ["React", "NodeJS", "HTML"]
+  },
+  {
+    "title": "Graphic Design for Marketing Materials",
+    "description": "Create eye-catching marketing materials for a new product launch.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-06-20",
+    "tags": ["Photoshop", "Illustrator"]
+  },
+  {
+    "title": "SEO Optimization for Blog",
+    "description": "Optimize blog content to improve search engine rankings.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-25",
+    "tags": ["Blog Writing", "Copy Writing"]
+  },
+  {
+    "title": "Content Writing for Website",
+    "description": "Write high-quality content for various sections of a business website.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Project",
+    "deadline": "2024-07-10",
+    "tags": ["Content Writing", "Copy Writing"]
+  },
+  {
+    "title": "Social Media Management",
+    "description": "Manage social media accounts and create engaging posts.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-06-30",
+    "tags": ["Content Writing", "Editing"]
+  },
+  {
+    "title": "Video Editing for YouTube Channel",
+    "description": "Edit and enhance videos for a popular YouTube channel.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Project",
+    "deadline": "2024-07-20",
+    "tags": ["Editing", "Content Writing"]
+  },
+  {
+    "title": "Custom WordPress Theme Development",
+    "description": "Develop a custom WordPress theme for a business blog.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-08-05",
+    "tags": ["HTML", "CSS", "React"]
+  },
+  {
+    "title": "Translation of Documents",
+    "description": "Translate business documents from English to Spanish.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-18",
+    "tags": ["Content Writing", "Blog Writing"]
+  },
+  {
+    "title": "UI/UX Design for Mobile App",
+    "description": "Design an intuitive and attractive UI/UX for a mobile application.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-07-25",
+    "tags": ["Figma", "Sketch"]
+  },
+  {
+    "title": "Copywriting for Ad Campaign",
+    "description": "Create compelling copy for an online advertising campaign.",
+    "job_size": "Small",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-22",
+    "tags": ["Copy Writing", "Content Writing"]
+  },
+  {
+    "title": "Custom Software Development",
+    "description": "Develop custom software for internal company use.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-12-01",
+    "tags": ["NodeJS", "React", "Express"]
+  },
+  {
+    "title": "Data Analysis for Market Research",
+    "description": "Analyze market data to identify trends and insights.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Project",
+    "deadline": "2024-08-10",
+    "tags": ["Financial Auditing", "IT Auditing"]
+  },
+  {
+    "title": "Logo Design",
+    "description": "Create a unique and memorable logo for a startup.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-06-28",
+    "tags": ["Illustrator", "Photoshop"]
+  },
+  {
+    "title": "Backend Development for Web App",
+    "description": "Develop the backend for a web application using Django.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Project",
+    "deadline": "2024-10-15",
+    "tags": ["NodeJS", "Express"]
+  },
+  {
+    "title": "Email Marketing Campaign",
+    "description": "Create and manage an email marketing campaign.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-07-30",
+    "tags": ["Copy Writing", "Content Writing"]
+  },
+  {
+    "title": "Technical Support for Software",
+    "description": "Provide technical support for a software product.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-17",
+    "tags": ["IT Auditing", "Compliance"]
+  },
+  {
+    "title": "Website Redesign",
+    "description": "Redesign an existing website to improve user experience.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-09-20",
+    "tags": ["HTML", "CSS", "React"]
+  },
+  {
+    "title": "Database Optimization",
+    "description": "Optimize database performance for a large-scale application.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Project",
+    "deadline": "2024-08-05",
+    "tags": ["NodeJS", "Express"]
+  },
+  {
+    "title": "Online Course Development",
+    "description": "Develop an online course on a specific subject matter.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-11-01",
+    "tags": ["Content Writing", "Editing"]
+  },
+  {
+    "title": "Photography for Event",
+    "description": "Capture high-quality photos for a corporate event.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-15",
+    "tags": ["Photoshop", "Illustrator"]
+  },
+  {
+    "title": "Accounting and Bookkeeping",
+    "description": "Manage accounting and bookkeeping tasks for a small business.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-07-05",
+    "tags": ["Financial Auditing", "Compliance"]
+  },
+  {
+    "title": "Cybersecurity Assessment",
+    "description": "Conduct a cybersecurity assessment for a company's IT infrastructure.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Project",
+    "deadline": "2024-10-01",
+    "tags": ["IT Auditing", "Forensic Auditing"]
+  },
+  {
+    "title": "Voiceover for Video",
+    "description": "Provide voiceover for a promotional video.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-20",
+    "tags": ["Editing", "Content Writing"]
+  },
+  {
+    "title": "Data Entry",
+    "description": "Perform data entry tasks for a research project.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-25",
+    "tags": ["Financial Auditing", "IT Auditing"]
+  },
+  {
+    "title": "Data Entry",
+    "description": "Perform data entry tasks for a research project.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-25",
+    "tags": ["Data Entry", "Editing"]
+  },
+  {
+    "title": "Business Plan Writing",
+    "description": "Write a detailed business plan for a startup.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-07-15",
+    "tags": ["Content Writing", "Copy Writing", "Editing"]
+  },
+  {
+    "title": "IT Support",
+    "description": "Provide IT support for a small business.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-18",
+    "tags": ["IT Auditing"]
+  },
+  {
+    "title": "Market Research",
+    "description": "Conduct market research for a new product.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-07-20",
+    "tags": ["Financial Auditing", "Compliance"]
+  },
+  {
+    "title": "Mobile Game Development",
+    "description": "Develop a mobile game for iOS and Android.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-11-15",
+    "tags": ["IOS", "Android"]
+  },
+  {
+    "title": "Legal Writing",
+    "description": "Draft legal documents for a business.",
+    "job_size": "Medium",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Project",
+    "deadline": "2024-07-10",
+    "tags": ["Copy Writing", "Editing"]
+  },
+  {
+    "title": "App Store Optimization",
+    "description": "Optimize a mobile app for better visibility in app stores.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-22",
+    "tags": ["IOS", "Android"]
+  },
+  {
+    "title": "Online Advertising Management",
+    "description": "Manage online advertising campaigns on Google and Facebook.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-07-05",
+    "tags": ["Financial Auditing", "Compliance"]
+  },
+  {
+    "title": "Resume Writing",
+    "description": "Write professional resumes for job seekers.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-17",
+    "tags": ["Copy Writing", "Editing"]
+  },
+  {
+    "title": "Blockchain Development",
+    "description": "Develop a blockchain application for secure transactions.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-12-01",
+    "tags": ["IT Auditing"]
+  },
+  {
+    "title": "Customer Service",
+    "description": "Provide customer service for an online store.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-30",
+    "tags": ["Financial Auditing", "Compliance"]
+  },
+  {
+    "title": "Podcast Editing",
+    "description": "Edit and produce episodes for a weekly podcast.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Project",
+    "deadline": "2024-07-10",
+    "tags": ["Editing"]
+  },
+  {
+    "title": "Sales Funnel Optimization",
+    "description": "Optimize the sales funnel for an e-commerce site.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-09-01",
+    "tags": ["Financial Auditing", "Compliance"]
+  },
+  {
+    "title": "Virtual Assistant",
+    "description": "Provide virtual assistant services for a busy executive.",
+    "job_size": "Small",
+    "expertize_level": "Entry",
+    "payment_structure": "By_Project",
+    "deadline": "2024-06-25",
+    "tags": ["Financial Auditing", "Compliance"]
+  },
+  {
+    "title": "Email Template Design",
+    "description": "Design email templates for a marketing campaign.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-07-15",
+    "tags": ["Photoshop", "Illustrator", "Figma", "Sketch"]
+  },
+  {
+    "title": "3D Modeling",
+    "description": "Create 3D models for a product prototype.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Project",
+    "deadline": "2024-08-15",
+    "tags": ["Photoshop", "Illustrator"]
+  },
+  {
+    "title": "Technical Writing",
+    "description": "Write technical documentation for a software product.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Project",
+    "deadline": "2024-07-25",
+    "tags": ["Content Writing", "Copy Writing", "Editing"]
+  },
+  {
+    "title": "eBook Writing",
+    "description": "Write an eBook on a specific topic.",
+    "job_size": "Large",
+    "expertize_level": "Expert",
+    "payment_structure": "By_Milestone",
+    "deadline": "2024-10-01",
+    "tags": ["Copy Writing", "Writing", "Editing"]
+  },
+  {
+    "title": "Google Ads Management",
+    "description": "Manage Google Ads campaigns for a business.",
+    "job_size": "Medium",
+    "expertize_level": "Intermediate",
+    "payment_structure": "By_Project",
+    "deadline": "2024-07-20",
+    "tags": ["Marketing"]
+  }
+]

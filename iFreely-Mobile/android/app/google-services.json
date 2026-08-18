@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500744941030",
+    "project_id": "freelydz",
+    "storage_bucket": "freelydz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500744941030:android:615714f1baaa20260afa27",
+        "android_client_info": {
+          "package_name": "com.example.flut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrcJO1Pw399hwsrnoDprleMAPqsulG2tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
