@@ -157,4 +157,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author & Maintainer
 
-Developed with ❤️ by **[T4F0](https://github.com/T4F0)**.
+Developed with ❤️ by **[B464](https://github.com/T4F0)**.
